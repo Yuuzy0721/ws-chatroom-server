@@ -1,0 +1,15 @@
+{
+  "name": "server",
+  "version": "0.0.2",
+  "description": "",
+  "license": "ISC",
+  "author": "Yuuzy07221",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "ws": "^8.18.3"
+  }
+}
